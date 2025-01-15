@@ -48,6 +48,11 @@ Create a new file named `config.js` in the root of your project and add the foll
 const API_KEY = " ";
 ```
 
+**Running the Project**
+
+```bash
+start index.html
+```
 
 
 
