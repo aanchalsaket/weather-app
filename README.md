@@ -2,8 +2,12 @@
 
 <p id="description">The Weather App is a simple web application that provides real-time weather updates for any location. It fetches data from a weather API and displays temperature.</p>
 
+<div align="center">
   
-  
+  <img width="866" alt="weatherapp" src="https://github.com/user-attachments/assets/1cfd5c26-a9aa-43c6-9df1-557e8cbb4834" />
+
+</div>
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
