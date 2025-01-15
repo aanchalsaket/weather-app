@@ -21,3 +21,33 @@ Technologies used in the project:
 *   Frontend: HTML CSS JavaScript
 *   API: WeatherAPI (https://www.weatherapi.com/)
 *   Version Control: Git
+
+
+<h2>🤸 Quick Start</h2>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/aanchalsaket/weather-app.git
+cd weather-app
+```
+
+**Setting up API key**
+
+Create a new file named `config.js` in the root of your project and add the following content:
+
+```config.js
+const API_KEY = " ";
+```
+
+
+
+
