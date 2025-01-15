@@ -5,6 +5,7 @@
 <div align="center">
   
   <img width="866" alt="weatherapp" src="https://github.com/user-attachments/assets/1cfd5c26-a9aa-43c6-9df1-557e8cbb4834" />
+  https://github.com/user-attachments/assets/e82d406a-3011-4281-baa7-a01c89cd73f8
 
 </div>
 
@@ -57,6 +58,5 @@ const API_KEY = " ";
 ```bash
 start index.html
 ```
-
 
 
