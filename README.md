@@ -20,4 +20,4 @@ Technologies used in the project:
 
 *   Frontend: HTML CSS JavaScript
 *   API: WeatherAPI (https://www.weatherapi.com/)
-*   Version Control: Git GitHub
+*   Version Control: Git
